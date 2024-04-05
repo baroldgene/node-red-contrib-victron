@@ -1,5 +1,5 @@
 {
-    "name": "@victronenergy/node-red-contrib-victron",
+    "name": "@baroldgene/node-red-contrib-victron",
     "description": "Custom Node-RED Nodes for Victron Energy",
     "version": "1.5.15",
     "dependencies": {
@@ -33,7 +33,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/victronenergy/node-red-contrib-victron"
+        "url": "https://github.com/baroldgene/node-red-contrib-victron"
     },
     "engines": {
         "node": ">=14.17.4"
