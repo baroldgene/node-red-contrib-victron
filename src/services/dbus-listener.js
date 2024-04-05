@@ -300,6 +300,8 @@ class VictronDbusListener {
     }
 
     if (Number.isInteger(value)) { numType = 'i' }
+    if (typeof value == "string" && !isNaN(value)) { numType = 's' }
+
     this.bus.invoke({
       path,
       destination,
