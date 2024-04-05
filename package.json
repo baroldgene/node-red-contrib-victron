@@ -1,7 +1,7 @@
 {
     "name": "@baroldgene/node-red-contrib-victron",
-    "description": "Custom Node-RED Nodes for Victron Energy",
-    "version": "1.5.16",
+    "description": "A fork of the Victron nodes to test a bug fix.",
+    "version": "1.5.17",
     "dependencies": {
         "dbus-native": "^0.4.0",
         "debug": "^4.3.4",
